@@ -1,1 +1,1 @@
-# asql
+# Curso de SQL da ASN.Rocks
