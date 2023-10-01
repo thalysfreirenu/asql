@@ -1,4 +1,15 @@
 -- Databricks notebook source
+-- MAGIC %md
+-- MAGIC
+-- MAGIC ## Bora praticar?
+-- MAGIC
+-- MAGIC 1. Selecione todos os clientes paulistanos
+-- MAGIC 2. Selecione todos os clientes paulistas
+-- MAGIC 3. Selecione todos os vendedores cariocas e paulistas
+-- MAGIC 4. Selecione produtos de perfumaria e bebes com altura maior que 5cm
+
+-- COMMAND ----------
+
 -- DBTITLE 1,Selecione todos os clientes paulistanos
 SELECT *
 FROM silver.olist.cliente
